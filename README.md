@@ -13,4 +13,5 @@ I like working with servers. Being a sysadmin and devops engineer is my way of t
 + <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp; C
 + <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>&nbsp; Linux, especially <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Linux" width="20" height="20"/> Debian
 + <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="20" height="20"/>&nbsp; Powershell and <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="20" height="20"/>&nbsp; Bash scripting
++ 
 ![image](https://github.com/Ranzo/Ranzo/assets/25409876/65a58a29-8c5d-4185-9e4f-b5b82e97f5e4)
