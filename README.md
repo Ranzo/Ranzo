@@ -15,4 +15,4 @@ I like working with servers. Being a sysadmin and devops engineer is my way of t
 + <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="20" height="20"/>&nbsp; Powershell and <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="20" height="20"/>&nbsp; Bash scripting
 
   
-<img src="https://risenhome.xyz/images/1gap.gif"/>
+<p style="text-align:center;"><img src="https://risenhome.xyz/images/1gap.gif"/></p>
