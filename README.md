@@ -3,7 +3,7 @@
 
 ### Hi. I`m Ivan 🤘
 
-I like working with servers. Being a sysadmin and devopser is my way of the samurai
+I like working with servers. Being a sysadmin and devops engineer is my way of the samurai
 
 #### 📩 You can find me at
 
